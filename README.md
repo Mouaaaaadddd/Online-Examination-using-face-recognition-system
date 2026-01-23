@@ -1,4 +1,5 @@
-<img width="1535" height="830" alt="image" src="https://github.com/user-attachments/assets/a71924db-6183-40f7-82dc-ef39c637d442" />
+![trojansource photo](https://github.com/user-attachments/assets/76b12c11-bad0-4b9b-9955-4f390921c60f)
+
 
 
 # 🎯 **Gesture-Based Online Examination System**
@@ -163,6 +164,6 @@ Providing them the **dignity of equal education access**.
 
 ## 👨‍💻 **Author**
 
-**M N Yuthishtra Bose**
+**Venkata Sai Morusu**
 Gesture-based assistive technology developer
 
